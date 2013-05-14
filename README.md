@@ -241,6 +241,7 @@ Finally, set a div tag, create hyperlinks, onclick event call window.print () me
 ==============
 This chapter is from the actual needs of the angle of the vehicle logistics resource planning system, the development of a complete vehicle logistics resource planning system, explain in detail the the vehicle logistics resource planning system development process, from the initial needs analysis, feasibility analysis, to the system design, database design, which focused vehicle source information query module, invoice management module and a single receipt and acceptance management module design.
 
+
 整车物流资源计划系统开发文档
 =====
 1开发背景
@@ -458,3 +459,25 @@ This chapter is from the actual needs of the angle of the vehicle logistics reso
 12.系统总结
 ==============
 　　本章从整车物流资源计划系统的实际需求角度出发，开发一个完整的整车物流资源计划系统，详细地讲解整车物流资源计划系统的开发流程，从最初的需求分析、可行性分析，到系统的设计、数据库的设计，其中重点突出车源信息查询模块、发货单管理模块和回执单验收管理模块的设计。
+
+东华理工大学IT网项目组相关链接
+==========================================================================================================================
+东华理工大学IT网：
+  http://ecit-it.com
+  http://huidaoli.web-164.com
+东华理工大学IT网团队项目协同办公室：
+  http://ecit-it.tudu.com/
+东华理工大学IT网站官方微博：
+  http://e.weibo.com/1910620900/ 
+  http://weibo.com/lhd20111102
+东华理工大学IT网站博客：
+  http://blog.sina.com.cn/ulihd
+东华理工大学IT网站博客手机端下载链接：
+  http://s.hudee.com/1910620900
+东华理工大学IT网移动客户端下载：
+  http://app.zhui.cn/Mobile/Down.aspx?SID=79935&SwitchOS=1
+  http://ecit-it.com/a/ITchuangyi/20130429/1422.html
+东华理工大学IT网网站站长简历：
+  http://ecit-it.com/a/ITjiuye/20130428/1395.html
+东华理工大学IT网QQ交流群：
+  37604517
