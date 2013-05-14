@@ -11,14 +11,14 @@ As the process of informatization in China comprehensively promote, in all areas
 A needs analysis
 =======
 With the acceleration of the process of the modern logistics information traditional logistics management method has no longer adapted to the current requirements of the development of the logistics industry, Instead this will be based on computer-based network of logistics management methods. A logistics company to adapt to the development of the logistics information process, there is an urgent need to develop a logistics and distribution system, achieved through the network to manage the logistics operation process, not only for business operators to save a lot of manpower, material and financial resources and time, improve logistics system operation efficiency, but also for the development of enterprises laid a good foundation for the enterprise customer in establishing a new image. In accordance with the specific requirements on the actual situation of Angelina logistics and distribution company, and the company, to develop a plan for vehicle logistics resource planning system. Specifically as follows:
-☑ Web page design requirements nice to be able to show the image of the enterprises.
-☑ enterprises and customers in establishing a new image.
-☑ site operation is simple, convenient, and can improve work efficiency.
-The ☑ logistics tracking.
-☑ distribution information in timely fashion.
-☑ management of delivery vehicles.
-The ☑ achieve management of customer information.
-☑ invoice printing.
+    ☑ Web page design requirements nice to be able to show the image of the enterprises.
+    ☑ enterprises and customers in establishing a new image.
+    ☑ site operation is simple, convenient, and can improve work efficiency.
+    ☑ logistics tracking.
+    ☑ distribution information in timely fashion.
+    ☑ management of delivery vehicles.
+    ☑ achieve management of customer information.
+    ☑ invoice printing.
 2 Feasibility Analysis
 ========
 The vehicle logistics resource distribution planning system not only development make logistics enterprises embark on the road of scientific and network management, but also to the rapid development of enterprises and bring huge economic and technical.
@@ -33,17 +33,17 @@ Network of logistics management, during operation can quickly and easily find ou
 3 system goals
 ================
 Logistics and distribution network system design, the findings do customers as well as the actual needs of enterprises, the project design should meet the following objectives:
-The ☑ interface design elegant, simple operation.
-The ☑ functional, a clear structure.
-☑ source of cars to quickly query information, and different needs to make the best distribution program.
-☑ able to accurately fill in the order form.
-☑ Order, Print.
-☑ able to achieve a single treatment.
-☑ car source information to add, modify, and delete.
-☑ able to manage customer information.
-☑ timely, accurate website maintenance and updating.
-☑ good database system supports.
-The ☑ system is stable, with the Service to the preventive measures.
+    ☑ interface design elegant, simple operation.
+    ☑ functional, a clear structure.
+    ☑ source of cars to quickly query information, and different needs to make the best distribution program.
+    ☑ able to accurately fill in the order form.
+    ☑ Order, Print.
+    ☑ able to achieve a single treatment.
+    ☑ car source information to add, modify, and delete.
+    ☑ able to manage customer information.
+    ☑ timely, accurate website maintenance and updating.
+    ☑ good database system supports.
+    ☑ system is stable, with the Service to the preventive measures.
 3.1 Function and Structure
 ==============
 Combination of requirements analysis and system goals, the functional structure of the vehicle logistics and distribution system has been designed. Vehicle logistics functional block diagram of the distribution system and work flow chart.
@@ -53,17 +53,17 @@ The vehicle logistics distribution system function block diagram is shown in Fig
 In the development of vehicle logistics resource planning system, the software development environment used in this project are as follows:
            A server-side
 ===============
-The ☑ operating system: Windows 7.
-☑ server: Apache 6.0.
-☑ PHP software: PHP5.0.
-☑ database: MySQL 5.0.
-☑ development tools: Dreamweaver 8.
-The ☑ Browser: IE6 and above.
-☑ Resolution: 1024 × 768 pixels, the best results.
+    ☑ operating system: Windows 7.
+    ☑ server: Apache 6.0.
+    ☑ PHP software: PHP5.0.
+    ☑ database: MySQL 5.0.
+    ☑ development tools: Dreamweaver 8.
+    ☑ Browser: IE6 and above.
+    ☑ Resolution: 1024 × 768 pixels, the best results.
     2 client
 ==============
-The ☑ Browser: IE6 and above.
-☑ Resolution: 1024 × 768 pixels, the best results.
+    ☑ Browser: IE6 and above.
+    ☑ Resolution: 1024 × 768 pixels, the best results.
 4. Database design
 ===============
 The Vehicle Logistics resource planning system must have the support of the database, all data should be stored in the database, to facilitate the administrator vehicles, orders and customer information. If there is no database support, vehicle logistics resource planning system will not make any sense. This section vehicle logistics resource planning system database design in detail.
@@ -80,14 +80,14 @@ Home design
 5.1 Overview of Home
 =============
 Home of the facade of the entire site, surfers visual interface design website home page should be the main content in the site try to show to the browser have to make browsing faster understanding of the content of the site. The home of the vehicle logistics resource planning system mainly includes the following functions:
-☑ car source query: vehicle information query time for the customer to select the program of distribution of goods.
-☑ invoice: mainly used for customer invoice information to fill.
-☑ receipt invoice to confirm: mainly used for the distribution of goods return receipt confirmation.
-The ☑ invoice queries: mainly used to query the invoice.
-☑ customer information management: mainly used to manage customer information.
-☑ car source information management: mainly used for the management of enterprises owned vehicle information.
-☑ change the password: mainly used to modify the administrator login password.
-As used herein, the frame structure is not a Frame frame, but applications SWITCH statement, the nested form the framework to achieve the effect.
+    ☑ car source query: vehicle information query time for the customer to select the program of distribution of goods.
+    ☑ invoice: mainly used for customer invoice information to fill.
+    ☑ receipt invoice to confirm: mainly used for the distribution of goods return receipt confirmation.
+    ☑ invoice queries: mainly used to query the invoice.
+    ☑ customer information management: mainly used to manage customer information.
+    ☑ car source information management: mainly used for the management of enterprises owned vehicle information.
+    ☑ change the password: mainly used to modify the administrator login password.
+    As used herein, the frame structure is not a Frame frame, but applications SWITCH statement, the nested form the framework to achieve the effect.
 6 car source information query module design
 ===============
 The 6.1 cheyuan query module Overview
@@ -101,8 +101,8 @@ Fuzzy query technology in the car_select.php file completed, the first to establ
     Code tips:
 ========
      ❶ select1: specify the place of departure.
-     The ❷ select2: designated arrival points.
-     The ❸ IF statement: the judgment variable to be retrieved from the form is true.
+     ❷ select2: designated arrival points.
+     ❸ IF statement: the judgment variable to be retrieved from the form is true.
      ❹ like: perform fuzzy query, meet the requirements of the data read from the database.
 6.3 car source information query module implementation process
 ===============
@@ -243,86 +243,87 @@ This chapter is from the actual needs of the angle of the vehicle logistics reso
 =====
 　　　随着我国信息化进程的全面推进，各领域的信息化进程都在飞速的发展，同样也推动着 物流领域的信息化进程飞快的向前发展。由于信息化进程的全面推进，对现代物流提出更高的要求：信息化、自动化、网络化、智能化和柔性化等。物流行业的竞争日益激烈，客户需求的标准也越来越高，物流企业要想在市场中占有一席之地，必须要建立一个高效、快捷、方便的物流信息化系统，为客户提供一流的服务，并且能够及时准确地掌握客户的需求，对客户的需求做出快速的反映，在最短的时间内以最大的限度挖掘和优化物流资源配送计划来满足客户的需求，从而建立高效的数字化物流经济。
 2系统分析
+======
 １需求分析
 =======
 随着现代物流信息化进程的加快，传统的物流管理方式已经不再适应当前物流发展的要求，取而代这的将是以计算机为基础的网络化物流管理方式。某物流配送公司为适应物流信息化进程的发展，急需开发一个物流配送系统，通过网络来实现对物流操作流程进行管理，不但为企业的运营过程节省大量的人力、物力、财力和时间，提高物流系统运行的效率，而且为企业在客户中树立一个全新的形象，为企业的发展奠定一个良好的基础。现根据对安吉物流配送公司的实际情况，以及公司的具体要求，制定出整车物流资源计划系统的规划方案。具体如下：
-　　☑ 网站页面设计要求美观大方，能够展示企事业形象。
-　　☑ 为企事业在客户中树立一个全新的形象。
-　　☑ 网站的操作流程简单、方便，能够提高工作效率。
-　　☑ 提供物流配送的全程跟踪。
-　　☑ 提供配送信息的及时查询。
-　　☑ 实现对配送车辆的管理。
+    ☑ 网站页面设计要求美观大方，能够展示企事业形象。
+    ☑ 为企事业在客户中树立一个全新的形象。
+    ☑ 网站的操作流程简单、方便，能够提高工作效率。
+    ☑ 提供物流配送的全程跟踪。
+    ☑ 提供配送信息的及时查询。
+    ☑ 实现对配送车辆的管理。
 　　☑ 实现对客户信息的管理。
 　　☑ 实现发货单打印的功能。
 ２可行性分析
 ========
-　　　整车物流资源配送计划系统的开发不但能使物流企事业走上科学化、网络化管理的道路，而且能够为企事业带来巨大的经济效益和技术上飞速的发展。
+    　　　整车物流资源配送计划系统的开发不但能使物流企事业走上科学化、网络化管理的道路，而且能够为企事业带来巨大的经济效益和技术上飞速的发展。
 1.经济性
 ===================
-　　　科学的管理方法，便捷的操作环境，系统的经营模式，将为企业带来更多的客户资源，树立企业的品牌形象，提高企业的经济效益。
+    　　　科学的管理方法，便捷的操作环境，系统的经营模式，将为企业带来更多的客户资源，树立企业的品牌形象，提高企业的经济效益。
 2.技术性
 =======
-　　　网络化的物流管理方式，在操作过程中能够快捷地查找出车源信息、客户订单以及客户信息：能够对货物进行全程跟踪，了解货物的托运情况，从而使企业能够根据实际情况，做好运营过程中的各项准备工作，作出及时准确的调整；能够保证托运人以及收货人对货物进行及时的处理。
+    　　　网络化的物流管理方式，在操作过程中能够快捷地查找出车源信息、客户订单以及客户信息：能够对货物进行全程跟踪，了解货物的托运情况，从而使企业能够根据实际情况，做好运营过程中的各项准备工作，作出及时准确的调整；能够保证托运人以及收货人对货物进行及时的处理。
 ３.系统设计
 ========
 3系统目标
 ================
-　　　结合目前网络上物流配送系统的设计方案，对客户做的调查结果以及企业的实际需求，本项目在设计时应该满足以下目标：
-　　☑ 界面设计美观大方、操作简单。
-　　☑ 功能完善、结构清晰。
-　　☑ 能够快速查询车源信息，并对不同需求做出最优配送方案。
-　　☑ 能够准确填写订单。
-　　☑ 能够实现订单查询、打印。
-　　☑ 能够实现对回单处理。
-　　☑ 能够对车源信息进行添加、修改和删除。
-　　☑ 能够对客户信息进行管理。
-　　☑ 能够及时、准确地对网站进行维护和更新。
-　　☑ 良好的数据库系统支持。
-　　☑ 系统运行稳定，具务良好的防范措施。
+    　　　结合目前网络上物流配送系统的设计方案，对客户做的调查结果以及企业的实际需求，本项目在设计时应该满足以下目标：
+    　　☑ 界面设计美观大方、操作简单。
+    　　☑ 功能完善、结构清晰。
+    　　☑ 能够快速查询车源信息，并对不同需求做出最优配送方案。
+    　　☑ 能够准确填写订单。
+    　　☑ 能够实现订单查询、打印。
+    　　☑ 能够实现对回单处理。
+    　　☑ 能够对车源信息进行添加、修改和删除。
+    　　☑ 能够对客户信息进行管理。
+    　　☑ 能够及时、准确地对网站进行维护和更新。
+    　　☑ 良好的数据库系统支持。
+    　　☑ 系统运行稳定，具务良好的防范措施。
 3.1系统功能结构
 ==============
-　　　结合需求分析和系统目标中的内容，整车物流配送系统的功能结构已经设计完成。整车物流配送系统的功能模块结构图和工作流程图。
+    　　　结合需求分析和系统目标中的内容，整车物流配送系统的功能结构已经设计完成。整车物流配送系统的功能模块结构图和工作流程图。
 整车物流配送系统的功能模块结构图如图3.1所示。
 3.2开发环境
 =================
-　　　在开发整车物流资源计划系统时，该项目使用的软件开发环境如下：
-           1.服务器端
+    　　　在开发整车物流资源计划系统时，该项目使用的软件开发环境如下：
+    　　　1.服务器端
 ===============
-　　　  ☑ 操作系统：Windows 7.
-　　  　☑ 服务器：Apache 6.0。
-　　  　☑ PHP软件：PHP5.0。
-　　  　☑ 数据库：MySQL 5.0。
-　　  　☑ 开发工具：Dreamweaver 8。
-　　  　☑ 浏览器：IE6.0及以上版本。
-　　  　☑ 分辨率：最佳效果1024×768像素。
-    2.客户端
+    　　　  ☑ 操作系统：Windows 7.
+    　　  　☑ 服务器：Apache 6.0。
+    　　  　☑ PHP软件：PHP5.0。
+    　　  　☑ 数据库：MySQL 5.0。
+    　　  　☑ 开发工具：Dreamweaver 8。
+    　　  　☑ 浏览器：IE6.0及以上版本。
+    　　  　☑ 分辨率：最佳效果1024×768像素。
+        2.客户端
 ==============
-　　　☑ 浏览器：IE6.0及以上版本。
-　　　☑ 分辨率：最佳效果1024×768像素。
+    　　　☑ 浏览器：IE6.0及以上版本。
+    　　　☑ 分辨率：最佳效果1024×768像素。
 4.数据库设计
 ===============
-　　　整车物流资源计划系统必须拥有数据库的支持，所有数据都应该存储到数据库中，便于管理员车辆、订单和客户的信息。如果没有数据库的支持，那么整车物流资源计划系统将没有任何意义。本节将对整车物流资源计划系统的数据库设计进行详细介绍。
+    　　　整车物流资源计划系统必须拥有数据库的支持，所有数据都应该存储到数据库中，便于管理员车辆、订单和客户的信息。如果没有数据库的支持，那么整车物流资源计划系统将没有任何意义。本节将对整车物流资源计划系统的数据库设计进行详细介绍。
 4.1数据库分析
 ============
-　　　整车物流资源计划系统是一个企业管理系统，考虑到开发的成本、搭配的合理性以及操作的灵活性等，使用MySQL数据库是最佳的选择。MySQL数据库是完全免费的，使用它不需要任何费用，可以直接从网上免费下载：MySQl数据库的操作也非常方便，不但可以在命令模式下操作，而且配备目前比较流行的图形化管理工具寂寞phpMyAdmin，能够轻松地实现对MySQL数据库的管理和操作。
+    　　　整车物流资源计划系统是一个企业管理系统，考虑到开发的成本、搭配的合理性以及操作的灵活性等，使用MySQL数据库是最佳的选择。MySQL数据库是完全免费的，使用它不需要任何费用，可以直接从网上免费下载：MySQl数据库的操作也非常方便，不但可以在命令模式下操作，而且配备目前比较流行的图形化管理工具寂寞phpMyAdmin，能够轻松地实现对MySQL数据库的管理和操作。
 4.2数据库概念设计
 ============
-　　　根据上述各节对整车物流资源计划系统做的需求分析和系统设计，整理出整车物流资源计划系统的实体关系E-R图。其中包括管理员信息实体、车源信息实体、车辆日志信息实体、客户信息实体和发货单信息实体。
-      管理员信息实体
-　　　管理员信息实体用于存储管理员的登录名称和密码信息，包括用户和密码两项内容。管理员信息实体的E-R图如3.10 所示。
+    　　　根据上述各节对整车物流资源计划系统做的需求分析和系统设计，整理出整车物流资源计划系统的实体关系E-R图。其中包括管理员信息实体、车源信息实体、车辆日志信息实体、客户信息实体和发货单信息实体。
+          管理员信息实体
+    　　　管理员信息实体用于存储管理员的登录名称和密码信息，包括用户和密码两项内容。管理员信息实体的E-R图如3.10 所示。
 5.网站首页设计
 ============
 5.1网站首页概述
 =============
-　　　网站首页是整个网站的门面，是浏览者第一视觉界面，所以在设计网站的首页时应该将网站中主要的内容尽量展示给浏览都，让浏览都能够更快地了解网站的内容。整车物流资源计划系统的首页主要包括如下功能：
-　　　☑ 车源信息查询：主要实现车辆信息查询，及时为客户选择货物配送的方案。
-　　　☑ 发货单：主要用于客户发货单信息填写。
-　　　☑ 回执发货单确认：主要用于对货物配送回执单的确认。
-　　　☑ 发货单查询：主要用于对发货单进行查询。
-　　　☑ 客户信息管理：主要用于对客户信息进行管理。
-　　　☑ 车源信息管理：主要用于对企业拥有的车辆信息进行管理。
-　　　☑ 修改密码：主要用于对管理员登录的密码进行修改。
-　　　这里使用的框架结构不是Frame框架，而是应用SWITCH语句，加上表格的嵌套实现的框架效果。
+    　　　网站首页是整个网站的门面，是浏览者第一视觉界面，所以在设计网站的首页时应该将网站中主要的内容尽量展示给浏览都，让浏览都能够更快地了解网站的内容。整车物流资源计划系统的首页主要包括如下功能：
+    　　　☑ 车源信息查询：主要实现车辆信息查询，及时为客户选择货物配送的方案。
+    　　　☑ 发货单：主要用于客户发货单信息填写。
+    　　　☑ 回执发货单确认：主要用于对货物配送回执单的确认。
+    　　　☑ 发货单查询：主要用于对发货单进行查询。
+    　　　☑ 客户信息管理：主要用于对客户信息进行管理。
+    　　　☑ 车源信息管理：主要用于对企业拥有的车辆信息进行管理。
+    　　　☑ 修改密码：主要用于对管理员登录的密码进行修改。
+    　　　这里使用的框架结构不是Frame框架，而是应用SWITCH语句，加上表格的嵌套实现的框架效果。
 6.车源信息查询模块设计
 ===============
 6.1车源信息查询模块概述
@@ -330,15 +331,15 @@ This chapter is from the actual needs of the angle of the vehicle logistics reso
 　　　车源信息查询模块的功能是根据客户提供的货物配送的地点，从数据库中查询有关该路线的车辆，为客户提供一个合理并且最优的配送路线，最后确定发货订单。操作流程如图3.23所示。
 6.2车源信息查询模块技术分析
 ==============
-　　　车源信息查询模块的主要功能就是查询车辆的使用信息，为客户提供最全适的货物配送路线。其中应用的关键技术自然就是查询方法，为了给客户提供最合适、最满意、最快捷的配送服务，这里使用的是模糊查询技术。
-　　　通过查询技术，只要客户提出配送货物的出发地点和到达地点，管理员就可以从数据库中提取出所有与该路线相关的车辆信息，包括车辆的承载能力、车辆是 否被占用和车辆的使用情况，都一目了然，客户可以根据实际的情况（时间、货物数量、路线等）选择车辆，确认后填写发货单。
-　　　模糊查询技术的实现是在car_select.php文件中完成的，首先要与数据库建立连接；然后创建一个form表单，设置两个文本框select1和select2用于提交出发地点和到达地点，将表的值提交到当前页；最后编写PHP脚本语句，以表单中获取的数据为条件，执行like模糊查询，从数据库的指定表中查询符合条件的信息，并且将查询出的信息显示到页面中。程序的关键代码如下：
-    代码贴士：
+    车源信息查询模块的主要功能就是查询车辆的使用信息，为客户提供最全适的货物配送路线。其中应用的关键技术自然就是查询方法，为了给客户提供最合适、最满意、最快捷的配送服务，这里使用的是模糊查询技术。
+    通过查询技术，只要客户提出配送货物的出发地点和到达地点，管理员就可以从数据库中提取出所有与该路线相关的车辆信息，包括车辆的承载能力、车辆是 否被占用和车辆的使用情况，都一目了然，客户可以根据实际的情况（时间、货物数量、路线等）选择车辆，确认后填写发货单。
+    模糊查询技术的实现是在car_select.php文件中完成的，首先要与数据库建立连接；然后创建一个form表单，设置两个文本框select1和select2用于提交出发地点和到达地点，将表的值提交到当前页；最后编写PHP脚本语句，以表单中获取的数据为条件，执行like模糊查询，从数据库的指定表中查询符合条件的信息，并且将查询出的信息显示到页面中。程序的关键代码如下：
+    代码贴士：
 ========
-     ❶select1:指定出发地点。
-     ❷select2:指定到达地点。
-     ❸IF语句：判断从表单中获取的变量是否为真。
-     ❹like:执行模糊查询，从数据库中读取符合条件的数据。
+    ❶select1:指定出发地点。
+    ❷select2:指定到达地点。
+    ❸IF语句：判断从表单中获取的变量是否为真。
+    ❹like:执行模糊查询，从数据库中读取符合条件的数据。
 6.3车源信息查询模块的实现过程
 ===============
 　　　车源信息查询功能的实现通过car_select.php文件来完成，首先与数据库建立连接；然后创建一个form表单，将客户的地址信息提交到当前页，作为查询的条件；最后编写PHP脚本语句，以表彰中获取的地点数据为条件，执行like模糊查询，从数据库的指定表中查询行使条件的信息，并且将查询出的信息显示到页面中。
@@ -352,56 +353,56 @@ This chapter is from the actual needs of the angle of the vehicle logistics reso
 　　　发货单管理模块主要包括发货单的填写、发货单查询、发货单打印和发货单删除。发货单管理模块的主要功能如图3.所示。
 7.2发货单管理模块技术分析
 ==============
-　　　如何才能发挥函数的最大作用？设计者不但要能够从表面理解函数的功能和作用，而且要能够以一种发散的思维方式支考虑问题。
-　　　在发货单管理模块中应用到一个发货单的编号，该编号是发货单的唯一标识，不允许存在重复。在编写生成这个编号的程序时，首选方案是应用随机函数获取随机的数字作为编号， 这是一个最直接的做法，但是考虑到发货单编号不但具有唯一性，而且还要使其具有一定的标志性，从个角度考虑使用随机函数就有些不适合，因为其不具一定的标志性。这时，如果应用date()函数则可以达到上述所说的要求，不但编号具有唯一性，而且还有规律可循。为了能够更好的理解这种发散性的编程思想，首先介绍一下date()函数。语法格式如下：
-　　　String date(string format,int timestamp)
-　　　该函数返回将参数timestamp按照指定格式字符串而产生的字符串，其中的参数timestamp是可先的，默认值为time()，即如果没有给出时间戳则使用本地当前时间。
-　　　Date()函数的参数format的格式化选项如表3.1所示。
+    如何才能发挥函数的最大作用？设计者不但要能够从表面理解函数的功能和作用，而且要能够以一种发散的思维方式支考虑问题。
+    在发货单管理模块中应用到一个发货单的编号，该编号是发货单的唯一标识，不允许存在重复。在编写生成这个编号的程序时，首选方案是应用随机函数获取随机的数字作为编号， 这是一个最直接的做法，但是考虑到发货单编号不但具有唯一性，而且还要使其具有一定的标志性，从个角度考虑使用随机函数就有些不适合，因为其不具一定的标志性。这时，如果应用date()函数则可以达到上述所说的要求，不但编号具有唯一性，而且还有规律可循。为了能够更好的理解这种发散性的编程思想，首先介绍一下date()函数。语法格式如下：
+    String date(string format,int timestamp)
+    该函数返回将参数timestamp按照指定格式字符串而产生的字符串，其中的参数timestamp是可先的，默认值为time()，即如果没有给出时间戳则使用本地当前时间。
+    Date()函数的参数format的格式化选项如表3.1所示。
   参 数	说 明
 =============
-  a	小写的上午和下午，返回从值am或pm
-  A	大写的上午和下午，返回从值AM或PM
-  B	Swatch Internet标准时，返回值000~999
-  d	月份中的第几天，有前导零的2位数字，返回值01~31
-  D	星期中的第几天，文本格式，3个字母，返回值 Mon~Sun
-  F	月份，完整的文本格式，返回值January~December
-  g	小时，12小时格式，没有导零，返回值1~12
-  G	小时，24小时格式，没有导零，返回值1~23
-  h	小时，12小时格式，有前导零，返回值01~12
-  H	小时，24小时格式，有前导零，返回值01~23
-  i	有前导零的分钟数，返回值00~59
-  I	判断是否为夏令时，返回值如果是夏令时为1，否则为0
-  j	月份中的第几天，没有前导零，返回值1~31
-  l	星期数，完整的文本格式，返回值Sunday到Saturday
-  L	判断是否为闰年，返回值如果闰年为1，否则为0
-  m	数字表示的月份，有前导零，返回值01~12
-  M	3个字母缩写表示的月份，没有前导零，返回值Jan~Dec
-  n	数字表示的月份，没有前导零，返回值1~12
-  o	与格林威治时间相差的小时数
-  r	RFC822格式的日期
-  s	秒数，有前导零，返回值00~59
-  S	每月天数后面的英文后缀，2个字符
-  t	指定月份所应有的天数
-  T	本机所在的时区
-  U	从UNIX纪元开始至今的秒数
-  w	星期中的第几天，数字表示，返回值0~6
-  W	ISO~8610格式年份中的第几周，每周从星期一开始
-  Y	4位数字完整表示的年份，返回值如2012
-  y	2位数字表示的年份 ，返回值如888
-  z	年份中的第几天，返回值0~366
-  Z	时差偏移量的时秒数。
+      a	小写的上午和下午，返回从值am或pm
+      A	大写的上午和下午，返回从值AM或PM
+      B	Swatch Internet标准时，返回值000~999
+      d	月份中的第几天，有前导零的2位数字，返回值01~31
+      D	星期中的第几天，文本格式，3个字母，返回值 Mon~Sun
+      F	月份，完整的文本格式，返回值January~December
+          g	小时，12小时格式，没有导零，返回值1~12
+      G	小时，24小时格式，没有导零，返回值1~23
+      h	小时，12小时格式，有前导零，返回值01~12
+      H	小时，24小时格式，有前导零，返回值01~23
+      i	有前导零的分钟数，返回值00~59
+      I	判断是否为夏令时，返回值如果是夏令时为1，否则为0
+      j	月份中的第几天，没有前导零，返回值1~31
+      l	星期数，完整的文本格式，返回值Sunday到Saturday
+      L	判断是否为闰年，返回值如果闰年为1，否则为0
+      m	数字表示的月份，有前导零，返回值01~12
+      M	3个字母缩写表示的月份，没有前导零，返回值Jan~Dec
+      n	数字表示的月份，没有前导零，返回值1~12
+      o	与格林威治时间相差的小时数
+      r	RFC822格式的日期
+      s	秒数，有前导零，返回值00~59
+      S	每月天数后面的英文后缀，2个字符
+      t	指定月份所应有的天数
+      T	本机所在的时区
+      U	从UNIX纪元开始至今的秒数
+      w	星期中的第几天，数字表示，返回值0~6
+      W	ISO~8610格式年份中的第几周，每周从星期一开始
+      Y	4位数字完整表示的年份，返回值如2012
+      y	2位数字表示的年份 ，返回值如888
+      z	年份中的第几天，返回值0~366
+      Z	时差偏移量的时秒数。
 　　　在本系统中的发货单填单模块中就是应用date（）函数获取当前时间和车辆ID作为发货单的编号。
 7.3发货单填单的实现过程
 ===========
-　　　发货单的填写是客户在确定物流配送路线以后填写的一个货物配送详细信息单据，内容包括发货单编号、车牌号码、车主电话、发货人、发货人电话、发货地址、付款方式、收货人、收货人电话、收货人地址和配送说明。发货单填写的运行结果如图3.29所示。
-　　发货单填单的实现通过insert_dds.php文件来完成，首先随机生成一个订单编号，然后创建一个form表单，最后将表单中的数据提交到数据库中。在Insert_dds.php文件中的使用的重要表单无素如表3.2所示。
-表3.2 发货单填单中使用的重要表单元素
-名称	元素类型	重要属性	含义
+    　　　发货单的填写是客户在确定物流配送路线以后填写的一个货物配送详细信息单据，内容包括发货单编号、车牌号码、车主电话、发货人、发货人电话、发货地址、付款方式、收货人、收货人电话、收货人地址和配送说明。发货单填写的运行结果如图3.29所示。
+    　　发货单填单的实现通过insert_dds.php文件来完成，首先随机生成一个订单编号，然后创建一个form表单，最后将表单中的数据提交到数据库中。在Insert_dds.php文件中的使用的重要表单无素如表3.2所示。
+    表3.2 发货单填单中使用的重要表单元素
+    名称	元素类型	重要属性	含义
 7.4发货单查询的实现过程
-============
+    ============
 　　　发货单查询是为了便于对发货单进行查找以及处理而设计的一个功能，通过其可以准确地查找到指定的发货单，并且还设置一个发货单删除的功能，可以对已经失效或者作废的发货单进行删除。其实现的原理主要是通过以发货单编号为条件的精确查找或者以发货人姓名为条件查询，然后将查询的结果输出到页面中。运行结果如图3.30所示。
-　　　发货单查询的实现主要通过hwys.php文件完成，首先与数据库建立连接，然后创建一个表单form1，通过该表单来提交查询的条件，可以选择精确查找或者模糊查询，最后根据form1表单中提交的数据，执行查询语句，从数据库中读取出符全条件的发货单的内容。程序的关键代码如下：
-　　　发货单删除的操作通过fhd_qr.php文件来完成，主要根据超链接中提供的发货单ID执行删除的操作。
+    　　　发货单查询的实现主要通过hwys.php文件完成，首先与数据库建立连接，然后创建一个表单form1，通过该表单来提交查询的条件，可以选择精确查找或者模糊查询，最后根据form1表单中提交的数据，执行查询语句，从数据库中读取出符全条件的发货单的内容。程序的关键代码如下：
+    　　　发货单删除的操作通过fhd_qr.php文件来完成，主要根据超链接中提供的发货单ID执行删除的操作。
 7.5发货单打印的实现过程
 =============
 　　这里的发货单打印技术主要通过框架打印技术来完成，即只打印框架中的内容，而网页中其他的内容不打印。 实现原理是：首先在Insert_dd.php文件中创建一个浮动框架，设置要指定打印内容的范围，并且连接到 要打印的insert_dds.php文件，然后在指定的文件中输出要打印的内容，最后应用onlick事件调用parent.content.focus()和window.print()方法实现打印功能。
@@ -452,22 +453,22 @@ This chapter is from the actual needs of the angle of the vehicle logistics reso
 　　在整车物流资源计划系统中，确认输入的电话号码正确与否是一个非重要的问题，如果客户在填写订单时使用了错误的电话号码，那么就会带来很多不必要的麻烦，所以在填写电话号码时一定要注意电话号码的准确性。为了更好地确保电话号码输入的准确性，可以通过程序对其进行控制。
 11.报表打印技术
 ==============
-　　报表打印技术的实现方法很多，可以通过web打印、通过Word打印、通过Excel打印和通过CSS样式打印等。在本项目中应用的打印方式是通过Web打印，并且是打印指定框架中的内容。下面再介绍一种通过CSS样式来打印页面中指定内容的方法。
-　　通过CSS样式打印页面中指定内容主要会用CSS样式的media类型。Media类型。Media类型是CSS属性媒体类型，用于直接引入媒体的属性。语法格式如下：
-　　@media screen | print | projection | braille | aural | tv | handheld | all
-    表3.6 media类型的参数说明
+    　　报表打印技术的实现方法很多，可以通过web打印、通过Word打印、通过Excel打印和通过CSS样式打印等。在本项目中应用的打印方式是通过Web打印，并且是打印指定框架中的内容。下面再介绍一种通过CSS样式来打印页面中指定内容的方法。
+    　　通过CSS样式打印页面中指定内容主要会用CSS样式的media类型。Media类型。Media类型是CSS属性媒体类型，用于直接引入媒体的属性。语法格式如下：
+    　　@media screen | print | projection | braille | aural | tv | handheld | all
+        表3.6 media类型的参数说明
 ========
-  参 数	说   明
-  screen	默认值，指提交到计算机屏幕
-  print	指输出到打印机
-  projection	指提交到投影机
-  braille	指提交到凸字触觉感知设备
-  aural	指语音电子合成器
-  tv	电视类型的媒体
-  handheld	指手持式显示设备
-  all	用于所有媒体
-　　这里以项目中的客户信息为例，讲解通过CSS样式打印指定内容的操作过程：首先编写用于控制指定内容的不打印CSS样式，程序如下：
-　　最后设置一个div标签，建立超链接，应用onclick事件调用window.print（）方法和printview()函数实现页面的打印和打印预览的功能。
+      参 数	说   明
+      screen	默认值，指提交到计算机屏幕
+      print	指输出到打印机
+      projection	指提交到投影机
+      braille	指提交到凸字触觉感知设备
+      aural	指语音电子合成器
+      tv	电视类型的媒体
+      handheld	指手持式显示设备
+      all	用于所有媒体
+    　　这里以项目中的客户信息为例，讲解通过CSS样式打印指定内容的操作过程：首先编写用于控制指定内容的不打印CSS样式，程序如下：
+    　　最后设置一个div标签，建立超链接，应用onclick事件调用window.print（）方法和printview()函数实现页面的打印和打印预览的功能。
 12.系统总结
 ==============
 　　本章从整车物流资源计划系统的实际需求角度出发，开发一个完整的整车物流资源计划系统，详细地讲解整车物流资源计划系统的开发流程，从最初的需求分析、可行性分析，到系统的设计、数据库的设计，其中重点突出车源信息查询模块、发货单管理模块和回执单验收管理模块的设计。
