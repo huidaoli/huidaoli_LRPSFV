@@ -465,10 +465,10 @@ This chapter is from the actual needs of the angle of the vehicle logistics reso
     东华理工大学IT网：
 http://ecit-it.com
             
-http://huidaoli.web-164.com
+http://www.ecit-it.com
 
     东华理工大学IT网团队项目协同办公室：
-http://ecit-it.tudu.com/
+http://ecit-it.tudu.im/
 
     东华理工大学IT网站官方微博：
 http://e.weibo.com/1910620900/ 
@@ -484,10 +484,10 @@ http://s.hudee.com/1910620900
     东华理工大学IT网移动客户端下载：
 http://app.zhui.cn/Mobile/Down.aspx?SID=79935&SwitchOS=1
                     
-http://ecit-it.com/a/ITchuangyi/20130429/1422.html
+http://www.ecit-it.com/a/ITchuangyi/20130429/1422.html
 
     东华理工大学IT网网站站长简历：
-http://ecit-it.com/a/ITjiuye/20130428/1395.html
+http://www.ecit-it.com/a/ITjiuye/20130428/1395.html
 
     东华理工大学IT网QQ交流群：
                              37604517
